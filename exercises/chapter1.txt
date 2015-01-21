@@ -1,0 +1,22 @@
+Chapter 1 Reading questions:
+
+Study design: what's the difference between:
+
+1) Observational vs. experimental
+        An observational study is one in which the studier(s) effect little to no control over the environment/situation being studied. This means there are no 'experiments' in which the studier(s) create a controlled environment to test (ideally...) one variable at a time. This would be an experimental study.
+
+2) Cross-sectional vs. longitudinal
+        A cross-sectional study may be thought of as a study where data is collected from a diverse group at (relatively) the same time. In contrast, a longitudinal study collects data from a group (often smaller in size) over time.
+
+3) Representative vs. oversampled
+        A representative sample is a study group which accurately represents the makeup of a larger population. Data collected from a representative sample can generally be used to draw inferences or conclusions about the entire population.
+        A oversampled study group is one which does NOT accurately represent the makeup of a larger population.
+
+4) Raw data vs. recodes
+        Recodes are data which are calculated from directly collected data ("raw data").
+
+5) What's an example of something you might do during data cleaning?
+        One could remove errors in a dataset, perform some basic data validation, and/or moving data between data structures/types.
+
+6) What's an example of something you might do during data validation?
+        One could perform basic statistical analysis or conditional searches (e.g. use re, etc. to check that textual entries are of a certain format, check that numeric data are in their expected ranges) to check for data set errors.
