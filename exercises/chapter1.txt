@@ -20,3 +20,5 @@ Study design: what's the difference between:
 
 6) What's an example of something you might do during data validation?
         One could perform basic statistical analysis or conditional searches (e.g. use re, etc. to check that textual entries are of a certain format, check that numeric data are in their expected ranges) to check for data set errors.
+
+SEE ThinkStats2/code/chap01ex.ipynb for exercise 1.1.
